@@ -172,3 +172,4 @@
 - Use `&` ao final de um comando para executá-lo em segundo plano
 
 Dominar estes comandos fundamentais proporcionará uma base sólida para trabalhar eficientemente em ambientes Linux, seja para administração de sistemas, desenvolvimento de software ou uso diário.
+
